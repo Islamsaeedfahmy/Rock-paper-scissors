@@ -1,0 +1,15 @@
+body{
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    margin-top: 200px;
+    background-image: url(https://media.giphy.com/media/tIR1Kzs95k0ZqM1PkZ/giphy-downsized-large.gif);
+    background-size: cover;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    border: 2px solid rgb(34, 192, 220);
+    border-radius: 30px;
+}
